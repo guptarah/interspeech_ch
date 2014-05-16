@@ -1,0 +1,19 @@
+#! /bin/bash
+
+data_set=$1 # dev train or test
+win_len=$2 # the number by which each file was extended; same will be the length of the filter 
+dir_location='../../classification/processing_scripts/'$data_set'_extended_'$win_len'/' # location of directory containing probabilities extended at the edges ../../classification/processing_scripts/dev_extended/
+echo $dir_location
+
+mkdir $data_set
+rm -r $data_set/$(basename $dir_location)
+mkdir $data_set/$(basename $dir_location)
+
+for data_file in $dir_location/*
+do
+	rm cur_filtered 
+	python filter_matrices.py $data_file $win_len
+
+	# chop the trailing and leading extra frames
+	tail cur_filtered -n +$(($win_len+1)) | head -n -$win_len > $data_set/$(basename $dir_location)/$(basename $data_file)	
+done

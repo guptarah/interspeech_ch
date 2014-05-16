@@ -1,0 +1,16 @@
+#! /bin/bash
+
+input_dir=$1 # directory having all the files after filtering
+data_set=$2
+
+cat $input_dir/* >results.tmp
+python complete_matrix.py results.tmp
+
+# for dev
+if [ "$data_set" = "dev" ]; then
+cat <(head -n 8 ../../classification/dnn/results/dev_output_basic_dnn.arff) <(paste -d',' <(tail -n +9 ../../classification/dnn/results/dev_output_basic_dnn.arff | cut -d',' -f1-3)  results.tmp.complete) >results.tmp.complete.arff
+
+else
+# for test
+cat <(head -n 8 ../../classification/dnn/results/test_output_basic_dnn.arff) <(paste -d',' <(tail -n +9 ../../classification/dnn/results/test_output_basic_dnn.arff | cut -d',' -f1-3)  results.tmp.complete) >results.tmp.complete.arff
+fi

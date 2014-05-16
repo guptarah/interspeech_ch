@@ -1,0 +1,20 @@
+#! /bin/bash
+
+data_set=$1 # dev train or test ex:/home/rcf-proj/mv/guptarah/interspeech_ch/scripts/smoothing/lp_filtering/dev
+win_len=$2 # the number by which each file was extended; same will be the length of the filter
+std_dev=$3 # std dev for gaussian window 
+dir_location='/home/rcf-proj/mv/guptarah/interspeech_ch/scripts/classification/processing_scripts/'$(basename $data_set)'_extended_'$win_len'/' # location of directory containing probabilities extended at the edges ../../classification/processing_scripts/dev_extended/
+echo $dir_location
+
+mkdir $data_set
+rm -r $data_set/$(basename $dir_location)_gaussian_$std_dev
+mkdir $data_set/$(basename $dir_location)_gaussian_$std_dev
+
+for data_file in $dir_location/*
+do
+	rm /home/rcf-proj/mv/guptarah/interspeech_ch/scripts/smoothing/lp_filtering/cur_filtered 
+	python /home/rcf-proj/mv/guptarah/interspeech_ch/scripts/smoothing/lp_filtering/filter_matrices_gaussian.py $data_file $win_len $std_dev
+
+	# chop the trailing and leading extra frames
+	tail /home/rcf-proj/mv/guptarah/interspeech_ch/scripts/smoothing/lp_filtering/cur_filtered -n +$(($win_len+1)) | head -n -$win_len > $data_set/$(basename $dir_location)_gaussian_$std_dev/$(basename $data_file)	
+done
