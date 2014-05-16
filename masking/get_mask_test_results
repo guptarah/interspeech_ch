@@ -1,0 +1,9 @@
+#! /bin/bash
+
+test_file=$1
+
+# for low probs
+python perform_masking_low_test.py $test_file low_test.results
+python perform_masking_high_test.py low_test.results test.results
+
+sed -i 's/^-[^,]*/0/g' test.results

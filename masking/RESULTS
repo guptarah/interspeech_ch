@@ -1,0 +1,3 @@
+results_command: perl ../../../dist/baseline/score_det.pl ../../../dist/arff/ComParE2013_Voc.9.train.arff ../../classification/dnn/results/all_train_output_basic_dnn.arff
+
+

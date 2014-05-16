@@ -1,0 +1,5371 @@
+tune results
+frame_len: 10
+thresh: 900
+Class: laughter
+AUC = 97.343205%
+EER = 7.464193%
+Class: filler
+AUC = 95.751818%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.347788%
+EER = 7.464193%
+Class: filler
+AUC = 95.761174%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.354721%
+EER = 7.464193%
+Class: filler
+AUC = 95.770009%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.356862%
+EER = 7.464193%
+Class: filler
+AUC = 95.778034%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.359651%
+EER = 7.464193%
+Class: filler
+AUC = 95.784947%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.363205%
+EER = 7.464193%
+Class: filler
+AUC = 95.794081%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.367312%
+EER = 7.464193%
+Class: filler
+AUC = 95.803378%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.373884%
+EER = 7.464193%
+Class: filler
+AUC = 95.813164%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.378813%
+EER = 7.464193%
+Class: filler
+AUC = 95.821887%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.383820%
+EER = 7.464193%
+Class: filler
+AUC = 95.829637%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.388422%
+EER = 7.464193%
+Class: filler
+AUC = 95.838410%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.393891%
+EER = 7.464193%
+Class: filler
+AUC = 95.846026%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.397084%
+EER = 7.464193%
+Class: filler
+AUC = 95.854967%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.403458%
+EER = 7.464193%
+Class: filler
+AUC = 95.864350%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.408729%
+EER = 7.464193%
+Class: filler
+AUC = 95.870533%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.413134%
+EER = 7.464193%
+Class: filler
+AUC = 95.874825%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.420614%
+EER = 7.464193%
+Class: filler
+AUC = 95.881906%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.424186%
+EER = 7.464193%
+Class: filler
+AUC = 95.887860%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.429046%
+EER = 7.464193%
+Class: filler
+AUC = 95.894035%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.434215%
+EER = 7.464193%
+Class: filler
+AUC = 95.902853%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.438922%
+EER = 7.464193%
+Class: filler
+AUC = 95.914320%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.443205%
+EER = 7.464193%
+Class: filler
+AUC = 95.920823%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.448182%
+EER = 7.464193%
+Class: filler
+AUC = 95.932575%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.451729%
+EER = 7.464193%
+Class: filler
+AUC = 95.942129%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.457384%
+EER = 7.464193%
+Class: filler
+AUC = 95.948276%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.460222%
+EER = 7.464193%
+Class: filler
+AUC = 95.958528%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.465750%
+EER = 7.464193%
+Class: filler
+AUC = 95.965733%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.470955%
+EER = 7.464193%
+Class: filler
+AUC = 95.971847%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.476202%
+EER = 7.464193%
+Class: filler
+AUC = 95.983195%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.479910%
+EER = 7.464193%
+Class: filler
+AUC = 95.997495%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.488973%
+EER = 7.464193%
+Class: filler
+AUC = 96.005072%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.493403%
+EER = 7.464193%
+Class: filler
+AUC = 96.008742%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.496835%
+EER = 7.464193%
+Class: filler
+AUC = 96.017783%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.500311%
+EER = 7.464193%
+Class: filler
+AUC = 96.028951%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.505198%
+EER = 7.464193%
+Class: filler
+AUC = 96.037897%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.509912%
+EER = 7.464193%
+Class: filler
+AUC = 96.047810%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.515113%
+EER = 7.464193%
+Class: filler
+AUC = 96.056301%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.523950%
+EER = 7.464193%
+Class: filler
+AUC = 96.064449%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.529147%
+EER = 7.464193%
+Class: filler
+AUC = 96.068720%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.536968%
+EER = 7.464193%
+Class: filler
+AUC = 96.078066%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.543266%
+EER = 7.464193%
+Class: filler
+AUC = 96.086447%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.550099%
+EER = 7.464193%
+Class: filler
+AUC = 96.093213%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.556502%
+EER = 7.464193%
+Class: filler
+AUC = 96.098211%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.562689%
+EER = 7.464193%
+Class: filler
+AUC = 96.102831%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.567322%
+EER = 7.464193%
+Class: filler
+AUC = 96.102814%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.576180%
+EER = 7.464193%
+Class: filler
+AUC = 96.105183%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.582478%
+EER = 7.464193%
+Class: filler
+AUC = 96.107304%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.588126%
+EER = 7.464193%
+Class: filler
+AUC = 96.107663%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.593169%
+EER = 7.464193%
+Class: filler
+AUC = 96.108423%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596226%
+EER = 7.464193%
+Class: filler
+AUC = 96.108110%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 20
+thresh: 900
+Class: laughter
+AUC = 97.361229%
+EER = 7.464193%
+Class: filler
+AUC = 95.798238%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.364055%
+EER = 7.464193%
+Class: filler
+AUC = 95.803218%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.367449%
+EER = 7.464193%
+Class: filler
+AUC = 95.815446%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.368847%
+EER = 7.464193%
+Class: filler
+AUC = 95.818747%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.372462%
+EER = 7.464193%
+Class: filler
+AUC = 95.832840%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.375408%
+EER = 7.464193%
+Class: filler
+AUC = 95.835647%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.380550%
+EER = 7.464193%
+Class: filler
+AUC = 95.844196%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.388873%
+EER = 7.464193%
+Class: filler
+AUC = 95.854883%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.396583%
+EER = 7.464193%
+Class: filler
+AUC = 95.861183%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.402973%
+EER = 7.464193%
+Class: filler
+AUC = 95.868707%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.407074%
+EER = 7.464193%
+Class: filler
+AUC = 95.874941%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.411665%
+EER = 7.464193%
+Class: filler
+AUC = 95.882924%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.416500%
+EER = 7.464193%
+Class: filler
+AUC = 95.885472%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.424487%
+EER = 7.464193%
+Class: filler
+AUC = 95.888258%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.431472%
+EER = 7.464193%
+Class: filler
+AUC = 95.897494%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.436270%
+EER = 7.464193%
+Class: filler
+AUC = 95.907051%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.439303%
+EER = 7.464193%
+Class: filler
+AUC = 95.912008%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.448645%
+EER = 7.464193%
+Class: filler
+AUC = 95.915152%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.451265%
+EER = 7.464193%
+Class: filler
+AUC = 95.919561%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.452713%
+EER = 7.464193%
+Class: filler
+AUC = 95.927919%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.454576%
+EER = 7.464193%
+Class: filler
+AUC = 95.940393%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.455711%
+EER = 7.464193%
+Class: filler
+AUC = 95.951827%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.460613%
+EER = 7.464193%
+Class: filler
+AUC = 95.967881%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.464406%
+EER = 7.464193%
+Class: filler
+AUC = 95.976969%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.468864%
+EER = 7.464193%
+Class: filler
+AUC = 95.983522%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.475045%
+EER = 7.464193%
+Class: filler
+AUC = 95.993779%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.479837%
+EER = 7.464193%
+Class: filler
+AUC = 95.997307%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.485455%
+EER = 7.464193%
+Class: filler
+AUC = 95.996414%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.487312%
+EER = 7.464193%
+Class: filler
+AUC = 96.011434%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.489751%
+EER = 7.464193%
+Class: filler
+AUC = 96.021806%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.494029%
+EER = 7.464193%
+Class: filler
+AUC = 96.038388%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.499036%
+EER = 7.464193%
+Class: filler
+AUC = 96.043395%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.502237%
+EER = 7.464193%
+Class: filler
+AUC = 96.051181%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.509106%
+EER = 7.464193%
+Class: filler
+AUC = 96.057529%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.513456%
+EER = 7.464193%
+Class: filler
+AUC = 96.060212%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.516569%
+EER = 7.464193%
+Class: filler
+AUC = 96.064911%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.524434%
+EER = 7.464193%
+Class: filler
+AUC = 96.071111%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.530684%
+EER = 7.464193%
+Class: filler
+AUC = 96.076066%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.537931%
+EER = 7.464193%
+Class: filler
+AUC = 96.079177%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.544540%
+EER = 7.464193%
+Class: filler
+AUC = 96.089311%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.549090%
+EER = 7.464193%
+Class: filler
+AUC = 96.096205%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.555906%
+EER = 7.464193%
+Class: filler
+AUC = 96.102605%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.560137%
+EER = 7.464193%
+Class: filler
+AUC = 96.104646%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.565677%
+EER = 7.464193%
+Class: filler
+AUC = 96.106615%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.569970%
+EER = 7.464193%
+Class: filler
+AUC = 96.108272%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.578753%
+EER = 7.464193%
+Class: filler
+AUC = 96.109700%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.584246%
+EER = 7.464193%
+Class: filler
+AUC = 96.109824%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.590817%
+EER = 7.464193%
+Class: filler
+AUC = 96.109200%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.593707%
+EER = 7.464193%
+Class: filler
+AUC = 96.108116%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596313%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 30
+thresh: 900
+Class: laughter
+AUC = 97.380521%
+EER = 7.464193%
+Class: filler
+AUC = 95.847170%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.384284%
+EER = 7.464193%
+Class: filler
+AUC = 95.851057%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.393107%
+EER = 7.464193%
+Class: filler
+AUC = 95.858447%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.394858%
+EER = 7.464193%
+Class: filler
+AUC = 95.865897%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.400795%
+EER = 7.464193%
+Class: filler
+AUC = 95.884988%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.405215%
+EER = 7.464193%
+Class: filler
+AUC = 95.889806%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.411779%
+EER = 7.464193%
+Class: filler
+AUC = 95.895190%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.414695%
+EER = 7.464193%
+Class: filler
+AUC = 95.899683%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.422077%
+EER = 7.464193%
+Class: filler
+AUC = 95.905383%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.426651%
+EER = 7.464193%
+Class: filler
+AUC = 95.909421%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.431071%
+EER = 7.464193%
+Class: filler
+AUC = 95.918369%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.439021%
+EER = 7.464193%
+Class: filler
+AUC = 95.929171%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.441011%
+EER = 7.464193%
+Class: filler
+AUC = 95.935067%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.450880%
+EER = 7.464193%
+Class: filler
+AUC = 95.936670%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.452059%
+EER = 7.464193%
+Class: filler
+AUC = 95.942062%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.457090%
+EER = 7.464193%
+Class: filler
+AUC = 95.943538%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.459605%
+EER = 7.464193%
+Class: filler
+AUC = 95.952215%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.460017%
+EER = 7.464193%
+Class: filler
+AUC = 95.965779%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.464329%
+EER = 7.464193%
+Class: filler
+AUC = 95.971044%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.465810%
+EER = 7.464193%
+Class: filler
+AUC = 95.983276%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.466096%
+EER = 7.464193%
+Class: filler
+AUC = 95.992813%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.471123%
+EER = 7.464193%
+Class: filler
+AUC = 95.998006%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.476948%
+EER = 7.464193%
+Class: filler
+AUC = 96.003299%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.480588%
+EER = 7.464193%
+Class: filler
+AUC = 96.005255%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.484767%
+EER = 7.464193%
+Class: filler
+AUC = 96.011897%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.489477%
+EER = 7.464193%
+Class: filler
+AUC = 96.020732%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.494045%
+EER = 7.464193%
+Class: filler
+AUC = 96.021633%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.497217%
+EER = 7.464193%
+Class: filler
+AUC = 96.022404%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.497711%
+EER = 7.464193%
+Class: filler
+AUC = 96.040668%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.500762%
+EER = 7.464193%
+Class: filler
+AUC = 96.047919%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.504960%
+EER = 7.464193%
+Class: filler
+AUC = 96.064803%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.507780%
+EER = 7.464193%
+Class: filler
+AUC = 96.070994%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.511570%
+EER = 7.464193%
+Class: filler
+AUC = 96.076472%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.514214%
+EER = 7.464193%
+Class: filler
+AUC = 96.077769%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.518959%
+EER = 7.464193%
+Class: filler
+AUC = 96.084252%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.522764%
+EER = 7.464193%
+Class: filler
+AUC = 96.086330%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.529683%
+EER = 7.464193%
+Class: filler
+AUC = 96.091613%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.535903%
+EER = 7.464193%
+Class: filler
+AUC = 96.096239%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.544392%
+EER = 7.464193%
+Class: filler
+AUC = 96.098743%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.550917%
+EER = 7.464193%
+Class: filler
+AUC = 96.101394%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.555068%
+EER = 7.464193%
+Class: filler
+AUC = 96.108412%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.558503%
+EER = 7.464193%
+Class: filler
+AUC = 96.110265%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.562531%
+EER = 7.464193%
+Class: filler
+AUC = 96.110133%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.568085%
+EER = 7.464193%
+Class: filler
+AUC = 96.111423%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.572029%
+EER = 7.464193%
+Class: filler
+AUC = 96.111534%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.582996%
+EER = 7.464193%
+Class: filler
+AUC = 96.113617%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.588708%
+EER = 7.464193%
+Class: filler
+AUC = 96.109054%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.590491%
+EER = 7.464193%
+Class: filler
+AUC = 96.107522%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.595300%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596749%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 40
+thresh: 900
+Class: laughter
+AUC = 97.397982%
+EER = 7.464193%
+Class: filler
+AUC = 95.964780%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.408061%
+EER = 7.464193%
+Class: filler
+AUC = 95.967926%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.410062%
+EER = 7.464193%
+Class: filler
+AUC = 95.981017%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.411737%
+EER = 7.464193%
+Class: filler
+AUC = 95.985558%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.413540%
+EER = 7.464193%
+Class: filler
+AUC = 96.003929%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.420443%
+EER = 7.464193%
+Class: filler
+AUC = 96.003822%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.423409%
+EER = 7.464193%
+Class: filler
+AUC = 96.003726%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.427903%
+EER = 7.464193%
+Class: filler
+AUC = 96.015076%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.438949%
+EER = 7.464193%
+Class: filler
+AUC = 96.018627%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.449875%
+EER = 7.464193%
+Class: filler
+AUC = 96.020879%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.456664%
+EER = 7.464193%
+Class: filler
+AUC = 96.029860%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.460044%
+EER = 7.464193%
+Class: filler
+AUC = 96.028948%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.460734%
+EER = 7.464193%
+Class: filler
+AUC = 96.029958%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.462205%
+EER = 7.464193%
+Class: filler
+AUC = 96.031976%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.464578%
+EER = 7.464193%
+Class: filler
+AUC = 96.045152%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.466823%
+EER = 7.464193%
+Class: filler
+AUC = 96.046317%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.469254%
+EER = 7.464193%
+Class: filler
+AUC = 96.050687%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.469466%
+EER = 7.464193%
+Class: filler
+AUC = 96.053539%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.472461%
+EER = 7.464193%
+Class: filler
+AUC = 96.058852%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.476186%
+EER = 7.464193%
+Class: filler
+AUC = 96.061257%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.477106%
+EER = 7.464193%
+Class: filler
+AUC = 96.071718%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.479207%
+EER = 7.464193%
+Class: filler
+AUC = 96.074505%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.483758%
+EER = 7.464193%
+Class: filler
+AUC = 96.080715%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.487420%
+EER = 7.464193%
+Class: filler
+AUC = 96.087574%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.488630%
+EER = 7.464193%
+Class: filler
+AUC = 96.089069%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.490255%
+EER = 7.464193%
+Class: filler
+AUC = 96.093944%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.493094%
+EER = 7.464193%
+Class: filler
+AUC = 96.095298%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.495624%
+EER = 7.464193%
+Class: filler
+AUC = 96.095715%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.498213%
+EER = 7.464193%
+Class: filler
+AUC = 96.100301%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.504808%
+EER = 7.464193%
+Class: filler
+AUC = 96.102555%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.510491%
+EER = 7.464193%
+Class: filler
+AUC = 96.100748%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.513191%
+EER = 7.464193%
+Class: filler
+AUC = 96.108741%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.515149%
+EER = 7.464193%
+Class: filler
+AUC = 96.107711%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.517380%
+EER = 7.464193%
+Class: filler
+AUC = 96.107805%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.526632%
+EER = 7.464193%
+Class: filler
+AUC = 96.112167%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.529217%
+EER = 7.464193%
+Class: filler
+AUC = 96.113372%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.532321%
+EER = 7.464193%
+Class: filler
+AUC = 96.114044%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.538564%
+EER = 7.464193%
+Class: filler
+AUC = 96.111651%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.548710%
+EER = 7.464193%
+Class: filler
+AUC = 96.116460%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.552457%
+EER = 7.464193%
+Class: filler
+AUC = 96.117632%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.553774%
+EER = 7.464193%
+Class: filler
+AUC = 96.120080%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.559839%
+EER = 7.464193%
+Class: filler
+AUC = 96.124578%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.564184%
+EER = 7.464193%
+Class: filler
+AUC = 96.119733%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.569907%
+EER = 7.464193%
+Class: filler
+AUC = 96.113105%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.574959%
+EER = 7.464193%
+Class: filler
+AUC = 96.110191%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.584930%
+EER = 7.464193%
+Class: filler
+AUC = 96.108342%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.589471%
+EER = 7.464193%
+Class: filler
+AUC = 96.107967%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.593339%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.596563%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.597117%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 50
+thresh: 900
+Class: laughter
+AUC = 97.404193%
+EER = 7.464193%
+Class: filler
+AUC = 96.020971%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.411006%
+EER = 7.464193%
+Class: filler
+AUC = 96.024090%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.419335%
+EER = 7.464193%
+Class: filler
+AUC = 96.027147%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.426647%
+EER = 7.464193%
+Class: filler
+AUC = 96.028485%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.428526%
+EER = 7.464193%
+Class: filler
+AUC = 96.036831%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.431738%
+EER = 7.464193%
+Class: filler
+AUC = 96.037297%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.434339%
+EER = 7.464193%
+Class: filler
+AUC = 96.047726%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.438317%
+EER = 7.464193%
+Class: filler
+AUC = 96.051771%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.453699%
+EER = 7.464193%
+Class: filler
+AUC = 96.053289%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.454293%
+EER = 7.464193%
+Class: filler
+AUC = 96.059476%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.456687%
+EER = 7.464193%
+Class: filler
+AUC = 96.067345%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.459539%
+EER = 7.464193%
+Class: filler
+AUC = 96.067487%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.460793%
+EER = 7.464193%
+Class: filler
+AUC = 96.072647%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.465602%
+EER = 7.464193%
+Class: filler
+AUC = 96.074181%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.467508%
+EER = 7.464193%
+Class: filler
+AUC = 96.078606%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.469656%
+EER = 7.464193%
+Class: filler
+AUC = 96.083353%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.471991%
+EER = 7.464193%
+Class: filler
+AUC = 96.087253%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.473419%
+EER = 7.464193%
+Class: filler
+AUC = 96.094644%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.475749%
+EER = 7.464193%
+Class: filler
+AUC = 96.097189%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.476905%
+EER = 7.464193%
+Class: filler
+AUC = 96.100689%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.474803%
+EER = 7.464193%
+Class: filler
+AUC = 96.107295%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.476048%
+EER = 7.464193%
+Class: filler
+AUC = 96.109472%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.480095%
+EER = 7.464193%
+Class: filler
+AUC = 96.109978%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.484026%
+EER = 7.464193%
+Class: filler
+AUC = 96.110788%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.486837%
+EER = 7.464193%
+Class: filler
+AUC = 96.110733%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.493318%
+EER = 7.464193%
+Class: filler
+AUC = 96.108957%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.498557%
+EER = 7.464193%
+Class: filler
+AUC = 96.107932%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.500058%
+EER = 7.464193%
+Class: filler
+AUC = 96.106999%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.501625%
+EER = 7.464193%
+Class: filler
+AUC = 96.107071%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.508155%
+EER = 7.464193%
+Class: filler
+AUC = 96.108141%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.512029%
+EER = 7.464193%
+Class: filler
+AUC = 96.113210%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.515090%
+EER = 7.464193%
+Class: filler
+AUC = 96.118779%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.515193%
+EER = 7.464193%
+Class: filler
+AUC = 96.119423%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.518402%
+EER = 7.464193%
+Class: filler
+AUC = 96.120470%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.525472%
+EER = 7.464193%
+Class: filler
+AUC = 96.118977%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.526698%
+EER = 7.464193%
+Class: filler
+AUC = 96.117094%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.534068%
+EER = 7.464193%
+Class: filler
+AUC = 96.118199%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.544505%
+EER = 7.464193%
+Class: filler
+AUC = 96.116374%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.551885%
+EER = 7.464193%
+Class: filler
+AUC = 96.118627%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.554588%
+EER = 7.464193%
+Class: filler
+AUC = 96.120134%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.555417%
+EER = 7.464193%
+Class: filler
+AUC = 96.120679%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.558693%
+EER = 7.464193%
+Class: filler
+AUC = 96.119793%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.562759%
+EER = 7.464193%
+Class: filler
+AUC = 96.115381%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.575235%
+EER = 7.464193%
+Class: filler
+AUC = 96.112473%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.582028%
+EER = 7.464193%
+Class: filler
+AUC = 96.109749%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.591387%
+EER = 7.464193%
+Class: filler
+AUC = 96.108064%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.594073%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.594519%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.595945%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596968%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 60
+thresh: 900
+Class: laughter
+AUC = 97.415659%
+EER = 7.464193%
+Class: filler
+AUC = 96.065027%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.422129%
+EER = 7.464193%
+Class: filler
+AUC = 96.066905%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.424940%
+EER = 7.464193%
+Class: filler
+AUC = 96.069030%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.423653%
+EER = 7.464193%
+Class: filler
+AUC = 96.070703%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.423513%
+EER = 7.464193%
+Class: filler
+AUC = 96.070641%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.426858%
+EER = 7.464193%
+Class: filler
+AUC = 96.071015%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.430848%
+EER = 7.464193%
+Class: filler
+AUC = 96.074673%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.439412%
+EER = 7.464193%
+Class: filler
+AUC = 96.076039%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.454271%
+EER = 7.464193%
+Class: filler
+AUC = 96.081980%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.456382%
+EER = 7.464193%
+Class: filler
+AUC = 96.085981%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.458742%
+EER = 7.464193%
+Class: filler
+AUC = 96.090175%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.461356%
+EER = 7.464193%
+Class: filler
+AUC = 96.089691%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.462663%
+EER = 7.464193%
+Class: filler
+AUC = 96.091987%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.464355%
+EER = 7.464193%
+Class: filler
+AUC = 96.093207%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.466198%
+EER = 7.464193%
+Class: filler
+AUC = 96.094256%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.473027%
+EER = 7.464193%
+Class: filler
+AUC = 96.094779%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.475235%
+EER = 7.464193%
+Class: filler
+AUC = 96.096086%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.476628%
+EER = 7.464193%
+Class: filler
+AUC = 96.095757%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.478423%
+EER = 7.464193%
+Class: filler
+AUC = 96.100628%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.479476%
+EER = 7.464193%
+Class: filler
+AUC = 96.104814%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.476233%
+EER = 7.464193%
+Class: filler
+AUC = 96.104169%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.477231%
+EER = 7.464193%
+Class: filler
+AUC = 96.105916%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.482014%
+EER = 7.464193%
+Class: filler
+AUC = 96.106051%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.485853%
+EER = 7.464193%
+Class: filler
+AUC = 96.108552%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.492857%
+EER = 7.464193%
+Class: filler
+AUC = 96.111510%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.495201%
+EER = 7.464193%
+Class: filler
+AUC = 96.112845%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.497632%
+EER = 7.464193%
+Class: filler
+AUC = 96.113344%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.499743%
+EER = 7.464193%
+Class: filler
+AUC = 96.112711%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.501126%
+EER = 7.464193%
+Class: filler
+AUC = 96.112279%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.511308%
+EER = 7.464193%
+Class: filler
+AUC = 96.112410%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.513775%
+EER = 7.464193%
+Class: filler
+AUC = 96.116228%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.517194%
+EER = 7.464193%
+Class: filler
+AUC = 96.116136%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.518383%
+EER = 7.464193%
+Class: filler
+AUC = 96.116303%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.520478%
+EER = 7.464193%
+Class: filler
+AUC = 96.115442%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.526682%
+EER = 7.464193%
+Class: filler
+AUC = 96.114934%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.535196%
+EER = 7.464193%
+Class: filler
+AUC = 96.117199%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.539936%
+EER = 7.464193%
+Class: filler
+AUC = 96.120084%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.544775%
+EER = 7.464193%
+Class: filler
+AUC = 96.119206%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.554143%
+EER = 7.464193%
+Class: filler
+AUC = 96.119686%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.555677%
+EER = 7.464193%
+Class: filler
+AUC = 96.117176%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.558548%
+EER = 7.464193%
+Class: filler
+AUC = 96.118450%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.568525%
+EER = 7.464193%
+Class: filler
+AUC = 96.115113%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.578310%
+EER = 7.464193%
+Class: filler
+AUC = 96.111361%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.586484%
+EER = 7.464193%
+Class: filler
+AUC = 96.109420%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.587198%
+EER = 7.464193%
+Class: filler
+AUC = 96.109394%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.588596%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.593782%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.595276%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.596300%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596926%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 70
+thresh: 900
+Class: laughter
+AUC = 97.410733%
+EER = 7.464193%
+Class: filler
+AUC = 96.076020%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.422897%
+EER = 7.464193%
+Class: filler
+AUC = 96.076503%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.425644%
+EER = 7.464193%
+Class: filler
+AUC = 96.078229%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.426669%
+EER = 7.464193%
+Class: filler
+AUC = 96.079428%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.428518%
+EER = 7.464193%
+Class: filler
+AUC = 96.083509%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.434362%
+EER = 7.464193%
+Class: filler
+AUC = 96.083721%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.436044%
+EER = 7.464193%
+Class: filler
+AUC = 96.087048%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.440421%
+EER = 7.464193%
+Class: filler
+AUC = 96.087003%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.455212%
+EER = 7.464193%
+Class: filler
+AUC = 96.088720%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.462807%
+EER = 7.464193%
+Class: filler
+AUC = 96.089254%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.464587%
+EER = 7.464193%
+Class: filler
+AUC = 96.089855%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.466740%
+EER = 7.464193%
+Class: filler
+AUC = 96.090492%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.466595%
+EER = 7.464193%
+Class: filler
+AUC = 96.093646%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.467590%
+EER = 7.464193%
+Class: filler
+AUC = 96.094178%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.469952%
+EER = 7.464193%
+Class: filler
+AUC = 96.093830%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.471877%
+EER = 7.464193%
+Class: filler
+AUC = 96.094471%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.472492%
+EER = 7.464193%
+Class: filler
+AUC = 96.097261%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.473945%
+EER = 7.464193%
+Class: filler
+AUC = 96.096371%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.476221%
+EER = 7.464193%
+Class: filler
+AUC = 96.097095%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.481771%
+EER = 7.464193%
+Class: filler
+AUC = 96.105661%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.480966%
+EER = 7.464193%
+Class: filler
+AUC = 96.106233%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.484381%
+EER = 7.464193%
+Class: filler
+AUC = 96.109300%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.488760%
+EER = 7.464193%
+Class: filler
+AUC = 96.109785%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.495089%
+EER = 7.464193%
+Class: filler
+AUC = 96.110411%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.496893%
+EER = 7.464193%
+Class: filler
+AUC = 96.110711%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.498970%
+EER = 7.464193%
+Class: filler
+AUC = 96.111127%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.501278%
+EER = 7.464193%
+Class: filler
+AUC = 96.111581%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.503744%
+EER = 7.464193%
+Class: filler
+AUC = 96.110787%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.504425%
+EER = 7.464193%
+Class: filler
+AUC = 96.111626%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.510562%
+EER = 7.464193%
+Class: filler
+AUC = 96.112265%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.521412%
+EER = 7.464193%
+Class: filler
+AUC = 96.112144%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.523830%
+EER = 7.464193%
+Class: filler
+AUC = 96.112457%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.524500%
+EER = 7.464193%
+Class: filler
+AUC = 96.112723%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.526294%
+EER = 7.464193%
+Class: filler
+AUC = 96.112610%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.536449%
+EER = 7.464193%
+Class: filler
+AUC = 96.111847%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.544096%
+EER = 7.464193%
+Class: filler
+AUC = 96.113263%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.545195%
+EER = 7.464193%
+Class: filler
+AUC = 96.113096%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.555237%
+EER = 7.464193%
+Class: filler
+AUC = 96.115565%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.568539%
+EER = 7.464193%
+Class: filler
+AUC = 96.115830%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.567174%
+EER = 7.464193%
+Class: filler
+AUC = 96.115543%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.568826%
+EER = 7.464193%
+Class: filler
+AUC = 96.115492%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.570781%
+EER = 7.464193%
+Class: filler
+AUC = 96.112462%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.578973%
+EER = 7.464193%
+Class: filler
+AUC = 96.110904%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.589554%
+EER = 7.464193%
+Class: filler
+AUC = 96.109024%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.586004%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.590953%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.594320%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.594441%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.595971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 80
+thresh: 900
+Class: laughter
+AUC = 97.421163%
+EER = 7.464193%
+Class: filler
+AUC = 96.082970%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.427550%
+EER = 7.464193%
+Class: filler
+AUC = 96.083592%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.430167%
+EER = 7.464193%
+Class: filler
+AUC = 96.086364%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.430278%
+EER = 7.464193%
+Class: filler
+AUC = 96.087261%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.431603%
+EER = 7.464193%
+Class: filler
+AUC = 96.088780%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.436007%
+EER = 7.464193%
+Class: filler
+AUC = 96.088632%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.438820%
+EER = 7.464193%
+Class: filler
+AUC = 96.092159%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.457332%
+EER = 7.464193%
+Class: filler
+AUC = 96.091747%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.461978%
+EER = 7.464193%
+Class: filler
+AUC = 96.092354%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.466913%
+EER = 7.464193%
+Class: filler
+AUC = 96.093047%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.469212%
+EER = 7.464193%
+Class: filler
+AUC = 96.096207%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.472167%
+EER = 7.464193%
+Class: filler
+AUC = 96.101546%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.471322%
+EER = 7.464193%
+Class: filler
+AUC = 96.101804%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.472212%
+EER = 7.464193%
+Class: filler
+AUC = 96.102015%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.474252%
+EER = 7.464193%
+Class: filler
+AUC = 96.102513%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.476341%
+EER = 7.464193%
+Class: filler
+AUC = 96.102824%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.478346%
+EER = 7.464193%
+Class: filler
+AUC = 96.106142%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.478535%
+EER = 7.464193%
+Class: filler
+AUC = 96.105610%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.478123%
+EER = 7.464193%
+Class: filler
+AUC = 96.105685%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.477646%
+EER = 7.464193%
+Class: filler
+AUC = 96.109630%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.485115%
+EER = 7.464193%
+Class: filler
+AUC = 96.109704%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.492870%
+EER = 7.464193%
+Class: filler
+AUC = 96.109482%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.496892%
+EER = 7.464193%
+Class: filler
+AUC = 96.109066%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.500414%
+EER = 7.464193%
+Class: filler
+AUC = 96.109194%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.500746%
+EER = 7.464193%
+Class: filler
+AUC = 96.109191%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.510455%
+EER = 7.464193%
+Class: filler
+AUC = 96.109345%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.511910%
+EER = 7.464193%
+Class: filler
+AUC = 96.111192%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.513737%
+EER = 7.464193%
+Class: filler
+AUC = 96.112350%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.524317%
+EER = 7.464193%
+Class: filler
+AUC = 96.111748%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.531345%
+EER = 7.464193%
+Class: filler
+AUC = 96.111814%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.532740%
+EER = 7.464193%
+Class: filler
+AUC = 96.112470%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.536382%
+EER = 7.464193%
+Class: filler
+AUC = 96.112091%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.536299%
+EER = 7.464193%
+Class: filler
+AUC = 96.112477%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.538482%
+EER = 7.464193%
+Class: filler
+AUC = 96.115570%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.553693%
+EER = 7.464193%
+Class: filler
+AUC = 96.116144%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.555649%
+EER = 7.464193%
+Class: filler
+AUC = 96.115576%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.562156%
+EER = 7.464193%
+Class: filler
+AUC = 96.115988%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.568930%
+EER = 7.464193%
+Class: filler
+AUC = 96.115933%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.574092%
+EER = 7.464193%
+Class: filler
+AUC = 96.115632%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.573410%
+EER = 7.464193%
+Class: filler
+AUC = 96.115324%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.573728%
+EER = 7.464193%
+Class: filler
+AUC = 96.115019%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.583965%
+EER = 7.464193%
+Class: filler
+AUC = 96.110006%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.583808%
+EER = 7.464193%
+Class: filler
+AUC = 96.108673%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.585875%
+EER = 7.464193%
+Class: filler
+AUC = 96.108618%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.584781%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.589966%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.592721%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.593466%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.595938%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 90
+thresh: 900
+Class: laughter
+AUC = 97.425688%
+EER = 7.464193%
+Class: filler
+AUC = 96.101756%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.441171%
+EER = 7.464193%
+Class: filler
+AUC = 96.102045%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.447118%
+EER = 7.464193%
+Class: filler
+AUC = 96.101993%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.446426%
+EER = 7.464193%
+Class: filler
+AUC = 96.102837%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.448379%
+EER = 7.464193%
+Class: filler
+AUC = 96.102984%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.451863%
+EER = 7.464193%
+Class: filler
+AUC = 96.103001%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.454630%
+EER = 7.464193%
+Class: filler
+AUC = 96.103274%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.463660%
+EER = 7.464193%
+Class: filler
+AUC = 96.103496%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.470333%
+EER = 7.464193%
+Class: filler
+AUC = 96.103666%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.472353%
+EER = 7.464193%
+Class: filler
+AUC = 96.104290%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.480909%
+EER = 7.464193%
+Class: filler
+AUC = 96.104358%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.483178%
+EER = 7.464193%
+Class: filler
+AUC = 96.104376%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.482787%
+EER = 7.464193%
+Class: filler
+AUC = 96.104611%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.485368%
+EER = 7.464193%
+Class: filler
+AUC = 96.104694%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.486573%
+EER = 7.464193%
+Class: filler
+AUC = 96.104989%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.495071%
+EER = 7.464193%
+Class: filler
+AUC = 96.105357%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.497523%
+EER = 7.464193%
+Class: filler
+AUC = 96.108519%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.501036%
+EER = 7.464193%
+Class: filler
+AUC = 96.108576%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.501205%
+EER = 7.464193%
+Class: filler
+AUC = 96.107154%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.499284%
+EER = 7.464193%
+Class: filler
+AUC = 96.110843%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.495277%
+EER = 7.464193%
+Class: filler
+AUC = 96.110964%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.496408%
+EER = 7.464193%
+Class: filler
+AUC = 96.111512%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.500450%
+EER = 7.464193%
+Class: filler
+AUC = 96.111717%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.511971%
+EER = 7.464193%
+Class: filler
+AUC = 96.111293%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.530513%
+EER = 7.464193%
+Class: filler
+AUC = 96.111382%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.532139%
+EER = 7.464193%
+Class: filler
+AUC = 96.111209%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.533467%
+EER = 7.464193%
+Class: filler
+AUC = 96.111461%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.536594%
+EER = 7.464193%
+Class: filler
+AUC = 96.111871%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.542409%
+EER = 7.464193%
+Class: filler
+AUC = 96.111477%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.549504%
+EER = 7.464193%
+Class: filler
+AUC = 96.111538%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.554921%
+EER = 7.464193%
+Class: filler
+AUC = 96.112067%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.556233%
+EER = 7.464193%
+Class: filler
+AUC = 96.112033%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.558391%
+EER = 7.464193%
+Class: filler
+AUC = 96.112290%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.558287%
+EER = 7.464193%
+Class: filler
+AUC = 96.112077%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.564599%
+EER = 7.464193%
+Class: filler
+AUC = 96.112748%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.564619%
+EER = 7.464193%
+Class: filler
+AUC = 96.112779%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.566489%
+EER = 7.464193%
+Class: filler
+AUC = 96.113090%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.572831%
+EER = 7.464193%
+Class: filler
+AUC = 96.113049%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.583765%
+EER = 7.464193%
+Class: filler
+AUC = 96.113337%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.583502%
+EER = 7.464193%
+Class: filler
+AUC = 96.114310%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.582810%
+EER = 7.464193%
+Class: filler
+AUC = 96.113531%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.581799%
+EER = 7.464193%
+Class: filler
+AUC = 96.108642%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.580596%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.584794%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.582445%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.588197%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.592047%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.594520%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.596491%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 100
+thresh: 900
+Class: laughter
+AUC = 97.439379%
+EER = 7.464193%
+Class: filler
+AUC = 96.099773%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.454771%
+EER = 7.464193%
+Class: filler
+AUC = 96.099926%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.470304%
+EER = 7.464193%
+Class: filler
+AUC = 96.099799%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.471086%
+EER = 7.464193%
+Class: filler
+AUC = 96.106061%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.472752%
+EER = 7.464193%
+Class: filler
+AUC = 96.106275%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.484621%
+EER = 7.464193%
+Class: filler
+AUC = 96.106092%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.485803%
+EER = 7.464193%
+Class: filler
+AUC = 96.106368%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.489651%
+EER = 7.464193%
+Class: filler
+AUC = 96.105521%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.496468%
+EER = 7.464193%
+Class: filler
+AUC = 96.105929%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.498133%
+EER = 7.464193%
+Class: filler
+AUC = 96.106340%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.499200%
+EER = 7.464193%
+Class: filler
+AUC = 96.106273%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.514331%
+EER = 7.464193%
+Class: filler
+AUC = 96.106218%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.510599%
+EER = 7.464193%
+Class: filler
+AUC = 96.106567%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.509788%
+EER = 7.464193%
+Class: filler
+AUC = 96.106567%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.510607%
+EER = 7.464193%
+Class: filler
+AUC = 96.106567%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.512223%
+EER = 7.464193%
+Class: filler
+AUC = 96.108180%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.512920%
+EER = 7.464193%
+Class: filler
+AUC = 96.111219%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.517500%
+EER = 7.464193%
+Class: filler
+AUC = 96.111281%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.516566%
+EER = 7.464193%
+Class: filler
+AUC = 96.111442%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.523987%
+EER = 7.464193%
+Class: filler
+AUC = 96.111605%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.522033%
+EER = 7.464193%
+Class: filler
+AUC = 96.111728%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.522566%
+EER = 7.464193%
+Class: filler
+AUC = 96.111987%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.529477%
+EER = 7.464193%
+Class: filler
+AUC = 96.113382%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.534891%
+EER = 7.464193%
+Class: filler
+AUC = 96.112545%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.540456%
+EER = 7.464193%
+Class: filler
+AUC = 96.112505%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.541836%
+EER = 7.464193%
+Class: filler
+AUC = 96.112548%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.543664%
+EER = 7.464193%
+Class: filler
+AUC = 96.112632%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.544079%
+EER = 7.464193%
+Class: filler
+AUC = 96.112210%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.542151%
+EER = 7.464193%
+Class: filler
+AUC = 96.112258%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.549810%
+EER = 7.464193%
+Class: filler
+AUC = 96.112428%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.560576%
+EER = 7.464193%
+Class: filler
+AUC = 96.111853%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.559277%
+EER = 7.464193%
+Class: filler
+AUC = 96.111820%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.562172%
+EER = 7.464193%
+Class: filler
+AUC = 96.112025%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.562713%
+EER = 7.464193%
+Class: filler
+AUC = 96.111932%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.568084%
+EER = 7.464193%
+Class: filler
+AUC = 96.112302%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.569283%
+EER = 7.464193%
+Class: filler
+AUC = 96.112416%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.570383%
+EER = 7.464193%
+Class: filler
+AUC = 96.112533%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.569136%
+EER = 7.464193%
+Class: filler
+AUC = 96.112308%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.581410%
+EER = 7.464193%
+Class: filler
+AUC = 96.112323%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.581064%
+EER = 7.464193%
+Class: filler
+AUC = 96.112423%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.585492%
+EER = 7.464193%
+Class: filler
+AUC = 96.112361%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.584721%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.584757%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.585028%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.587509%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.588967%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.592823%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.594671%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.597620%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 110
+thresh: 900
+Class: laughter
+AUC = 97.458311%
+EER = 7.464193%
+Class: filler
+AUC = 96.105672%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.471896%
+EER = 7.464193%
+Class: filler
+AUC = 96.105814%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.473182%
+EER = 7.464193%
+Class: filler
+AUC = 96.105750%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.472491%
+EER = 7.464193%
+Class: filler
+AUC = 96.105826%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.472787%
+EER = 7.464193%
+Class: filler
+AUC = 96.105902%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.475110%
+EER = 7.464193%
+Class: filler
+AUC = 96.105779%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.477492%
+EER = 7.464193%
+Class: filler
+AUC = 96.106057%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.477611%
+EER = 7.464193%
+Class: filler
+AUC = 96.106195%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.501446%
+EER = 7.464193%
+Class: filler
+AUC = 96.106331%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.505012%
+EER = 7.464193%
+Class: filler
+AUC = 96.106608%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.512818%
+EER = 7.464193%
+Class: filler
+AUC = 96.106380%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.514793%
+EER = 7.464193%
+Class: filler
+AUC = 96.106325%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.516008%
+EER = 7.464193%
+Class: filler
+AUC = 96.106732%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.516751%
+EER = 7.464193%
+Class: filler
+AUC = 96.106732%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.517788%
+EER = 7.464193%
+Class: filler
+AUC = 96.106732%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.519287%
+EER = 7.464193%
+Class: filler
+AUC = 96.106946%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.520675%
+EER = 7.464193%
+Class: filler
+AUC = 96.109877%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.520606%
+EER = 7.464193%
+Class: filler
+AUC = 96.109991%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.520614%
+EER = 7.464193%
+Class: filler
+AUC = 96.110122%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.521155%
+EER = 7.464193%
+Class: filler
+AUC = 96.110335%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.522424%
+EER = 7.464193%
+Class: filler
+AUC = 96.110374%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.525307%
+EER = 7.464193%
+Class: filler
+AUC = 96.110635%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.530241%
+EER = 7.464193%
+Class: filler
+AUC = 96.111453%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.534424%
+EER = 7.464193%
+Class: filler
+AUC = 96.112067%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.544154%
+EER = 7.464193%
+Class: filler
+AUC = 96.112069%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.545632%
+EER = 7.464193%
+Class: filler
+AUC = 96.112028%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.548088%
+EER = 7.464193%
+Class: filler
+AUC = 96.112028%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.548794%
+EER = 7.464193%
+Class: filler
+AUC = 96.112115%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.562723%
+EER = 7.464193%
+Class: filler
+AUC = 96.112040%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.572330%
+EER = 7.464193%
+Class: filler
+AUC = 96.112090%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.574707%
+EER = 7.464193%
+Class: filler
+AUC = 96.112212%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.573165%
+EER = 7.464193%
+Class: filler
+AUC = 96.112179%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.573974%
+EER = 7.464193%
+Class: filler
+AUC = 96.112268%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.574170%
+EER = 7.464193%
+Class: filler
+AUC = 96.112205%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.574841%
+EER = 7.464193%
+Class: filler
+AUC = 96.112233%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.575937%
+EER = 7.464193%
+Class: filler
+AUC = 96.112347%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.577360%
+EER = 7.464193%
+Class: filler
+AUC = 96.112353%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.581424%
+EER = 7.464193%
+Class: filler
+AUC = 96.112303%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.594728%
+EER = 7.464193%
+Class: filler
+AUC = 96.111300%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.592724%
+EER = 7.464193%
+Class: filler
+AUC = 96.110253%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.589671%
+EER = 7.464193%
+Class: filler
+AUC = 96.110337%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.587717%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.588648%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.592159%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.593706%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.595291%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.595759%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.597476%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.597620%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 120
+thresh: 900
+Class: laughter
+AUC = 97.455484%
+EER = 7.464193%
+Class: filler
+AUC = 96.105672%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.471231%
+EER = 7.464193%
+Class: filler
+AUC = 96.105814%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.481793%
+EER = 7.464193%
+Class: filler
+AUC = 96.105750%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.491038%
+EER = 7.464193%
+Class: filler
+AUC = 96.107233%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.492431%
+EER = 7.464193%
+Class: filler
+AUC = 96.107310%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.495811%
+EER = 7.464193%
+Class: filler
+AUC = 96.107248%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.499297%
+EER = 7.464193%
+Class: filler
+AUC = 96.107389%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.506994%
+EER = 7.464193%
+Class: filler
+AUC = 96.107527%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.521795%
+EER = 7.464193%
+Class: filler
+AUC = 96.107664%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.523160%
+EER = 7.464193%
+Class: filler
+AUC = 96.107804%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.523587%
+EER = 7.464193%
+Class: filler
+AUC = 96.107576%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.528453%
+EER = 7.464193%
+Class: filler
+AUC = 96.106157%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.529379%
+EER = 7.464193%
+Class: filler
+AUC = 96.106429%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.530232%
+EER = 7.464193%
+Class: filler
+AUC = 96.106429%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.531164%
+EER = 7.464193%
+Class: filler
+AUC = 96.106429%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.532996%
+EER = 7.464193%
+Class: filler
+AUC = 96.106511%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.545142%
+EER = 7.464193%
+Class: filler
+AUC = 96.110676%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.548392%
+EER = 7.464193%
+Class: filler
+AUC = 96.110626%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.547172%
+EER = 7.464193%
+Class: filler
+AUC = 96.110626%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.547953%
+EER = 7.464193%
+Class: filler
+AUC = 96.110626%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.551473%
+EER = 7.464193%
+Class: filler
+AUC = 96.109246%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.551761%
+EER = 7.464193%
+Class: filler
+AUC = 96.109378%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.558207%
+EER = 7.464193%
+Class: filler
+AUC = 96.109378%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.563328%
+EER = 7.464193%
+Class: filler
+AUC = 96.109378%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.571207%
+EER = 7.464193%
+Class: filler
+AUC = 96.109464%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.572122%
+EER = 7.464193%
+Class: filler
+AUC = 96.109423%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.572725%
+EER = 7.464193%
+Class: filler
+AUC = 96.109423%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.573150%
+EER = 7.464193%
+Class: filler
+AUC = 96.109549%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.573804%
+EER = 7.464193%
+Class: filler
+AUC = 96.109549%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.580013%
+EER = 7.464193%
+Class: filler
+AUC = 96.109635%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.580854%
+EER = 7.464193%
+Class: filler
+AUC = 96.109758%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.579161%
+EER = 7.464193%
+Class: filler
+AUC = 96.109758%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.580340%
+EER = 7.464193%
+Class: filler
+AUC = 96.110030%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.579695%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.591229%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.590517%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.591238%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.591890%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.595555%
+EER = 7.464193%
+Class: filler
+AUC = 96.109924%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.593099%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.596902%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.595160%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.597578%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.597069%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.594874%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.594673%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.597473%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.597476%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.597409%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 130
+thresh: 900
+Class: laughter
+AUC = 97.502450%
+EER = 7.464193%
+Class: filler
+AUC = 96.103904%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.509308%
+EER = 7.464193%
+Class: filler
+AUC = 96.104047%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.508423%
+EER = 7.464193%
+Class: filler
+AUC = 96.103982%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.508875%
+EER = 7.464193%
+Class: filler
+AUC = 96.103919%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.510204%
+EER = 7.464193%
+Class: filler
+AUC = 96.104059%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.511622%
+EER = 7.464193%
+Class: filler
+AUC = 96.104059%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.512518%
+EER = 7.464193%
+Class: filler
+AUC = 96.105651%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.524929%
+EER = 7.464193%
+Class: filler
+AUC = 96.105791%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.547873%
+EER = 7.464193%
+Class: filler
+AUC = 96.105929%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.548874%
+EER = 7.464193%
+Class: filler
+AUC = 96.105929%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.549315%
+EER = 7.464193%
+Class: filler
+AUC = 96.105872%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.549655%
+EER = 7.464193%
+Class: filler
+AUC = 96.105872%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.554051%
+EER = 7.464193%
+Class: filler
+AUC = 96.106008%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.554651%
+EER = 7.464193%
+Class: filler
+AUC = 96.106008%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.553435%
+EER = 7.464193%
+Class: filler
+AUC = 96.106008%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.554538%
+EER = 7.464193%
+Class: filler
+AUC = 96.106143%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.562136%
+EER = 7.464193%
+Class: filler
+AUC = 96.110232%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.564913%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.563176%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.563690%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.564363%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.575277%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.576517%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.575927%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.583726%
+EER = 7.464193%
+Class: filler
+AUC = 96.110139%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.584551%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.583994%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.582011%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.581437%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.587267%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.594176%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.593525%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.594172%
+EER = 7.464193%
+Class: filler
+AUC = 96.110030%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.591733%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.590268%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.591161%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.588862%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.592203%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.594836%
+EER = 7.464193%
+Class: filler
+AUC = 96.109924%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.594230%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.597911%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.596780%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.596376%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.596214%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.595097%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.596508%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.599782%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.598999%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.597409%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 140
+thresh: 900
+Class: laughter
+AUC = 97.508970%
+EER = 7.464193%
+Class: filler
+AUC = 96.105638%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.516540%
+EER = 7.464193%
+Class: filler
+AUC = 96.105638%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.517176%
+EER = 7.464193%
+Class: filler
+AUC = 96.105574%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.517459%
+EER = 7.464193%
+Class: filler
+AUC = 96.105510%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.531126%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.539794%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.540519%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.560132%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.569932%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.569458%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.570275%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.570370%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.570909%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.577557%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.577810%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.578604%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.580024%
+EER = 7.464193%
+Class: filler
+AUC = 96.110232%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.580305%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.578296%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.577289%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.579097%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.577009%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.576652%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.575936%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.588942%
+EER = 7.464193%
+Class: filler
+AUC = 96.110139%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.588193%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.588382%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.587706%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.587222%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.587806%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.590136%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.586269%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.586430%
+EER = 7.464193%
+Class: filler
+AUC = 96.110030%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.586170%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.586796%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.587660%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.588237%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.599200%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.596099%
+EER = 7.464193%
+Class: filler
+AUC = 96.109924%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.595040%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.598401%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.597144%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.596501%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.596293%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.597695%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.598867%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.599755%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.598585%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.597409%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+frame_len: 150
+thresh: 900
+Class: laughter
+AUC = 97.539519%
+EER = 7.464193%
+Class: filler
+AUC = 96.110469%
+EER = 8.922422%
+thresh: 902
+Class: laughter
+AUC = 97.538403%
+EER = 7.464193%
+Class: filler
+AUC = 96.110469%
+EER = 8.922422%
+thresh: 904
+Class: laughter
+AUC = 97.539057%
+EER = 7.464193%
+Class: filler
+AUC = 96.110404%
+EER = 8.922422%
+thresh: 906
+Class: laughter
+AUC = 97.538084%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 908
+Class: laughter
+AUC = 97.538893%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 910
+Class: laughter
+AUC = 97.539594%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 912
+Class: laughter
+AUC = 97.540449%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 914
+Class: laughter
+AUC = 97.571004%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 916
+Class: laughter
+AUC = 97.571398%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 918
+Class: laughter
+AUC = 97.571892%
+EER = 7.464193%
+Class: filler
+AUC = 96.110341%
+EER = 8.922422%
+thresh: 920
+Class: laughter
+AUC = 97.572599%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 922
+Class: laughter
+AUC = 97.572506%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 924
+Class: laughter
+AUC = 97.573128%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 926
+Class: laughter
+AUC = 97.573581%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 928
+Class: laughter
+AUC = 97.573772%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 930
+Class: laughter
+AUC = 97.574496%
+EER = 7.464193%
+Class: filler
+AUC = 96.110284%
+EER = 8.922422%
+thresh: 932
+Class: laughter
+AUC = 97.573704%
+EER = 7.464193%
+Class: filler
+AUC = 96.110232%
+EER = 8.922422%
+thresh: 934
+Class: laughter
+AUC = 97.577744%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 936
+Class: laughter
+AUC = 97.575739%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 938
+Class: laughter
+AUC = 97.576191%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 940
+Class: laughter
+AUC = 97.576535%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 942
+Class: laughter
+AUC = 97.579001%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 944
+Class: laughter
+AUC = 97.582513%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 946
+Class: laughter
+AUC = 97.581876%
+EER = 7.464193%
+Class: filler
+AUC = 96.110182%
+EER = 8.922422%
+thresh: 948
+Class: laughter
+AUC = 97.594845%
+EER = 7.464193%
+Class: filler
+AUC = 96.110139%
+EER = 8.922422%
+thresh: 950
+Class: laughter
+AUC = 97.595496%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 952
+Class: laughter
+AUC = 97.595721%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 954
+Class: laughter
+AUC = 97.593109%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 956
+Class: laughter
+AUC = 97.593511%
+EER = 7.464193%
+Class: filler
+AUC = 96.110098%
+EER = 8.922422%
+thresh: 958
+Class: laughter
+AUC = 97.594107%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 960
+Class: laughter
+AUC = 97.594191%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 962
+Class: laughter
+AUC = 97.594555%
+EER = 7.464193%
+Class: filler
+AUC = 96.110061%
+EER = 8.922422%
+thresh: 964
+Class: laughter
+AUC = 97.594921%
+EER = 7.464193%
+Class: filler
+AUC = 96.110030%
+EER = 8.922422%
+thresh: 966
+Class: laughter
+AUC = 97.593409%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 968
+Class: laughter
+AUC = 97.593780%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 970
+Class: laughter
+AUC = 97.595503%
+EER = 7.464193%
+Class: filler
+AUC = 96.109999%
+EER = 8.922422%
+thresh: 972
+Class: laughter
+AUC = 97.594699%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 974
+Class: laughter
+AUC = 97.597780%
+EER = 7.464193%
+Class: filler
+AUC = 96.109972%
+EER = 8.922422%
+thresh: 976
+Class: laughter
+AUC = 97.594328%
+EER = 7.464193%
+Class: filler
+AUC = 96.109924%
+EER = 8.922422%
+thresh: 978
+Class: laughter
+AUC = 97.593345%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 980
+Class: laughter
+AUC = 97.596848%
+EER = 7.464193%
+Class: filler
+AUC = 96.109903%
+EER = 8.922422%
+thresh: 982
+Class: laughter
+AUC = 97.596300%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 984
+Class: laughter
+AUC = 97.599558%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 986
+Class: laughter
+AUC = 97.599123%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 988
+Class: laughter
+AUC = 97.600251%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 990
+Class: laughter
+AUC = 97.598428%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 992
+Class: laughter
+AUC = 97.599755%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 994
+Class: laughter
+AUC = 97.598585%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 996
+Class: laughter
+AUC = 97.597409%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 998
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%
+thresh: 1000
+Class: laughter
+AUC = 97.596971%
+EER = 7.464193%
+Class: filler
+AUC = 96.108103%
+EER = 8.922422%

@@ -1,0 +1,37 @@
+#! /bin/bash
+
+dev_file=$1
+test_file=$2
+
+# for the lower end probabilities to be suppressed to zero
+echo "tune results" > tune_results_low.dev
+for frame_len in {50..150..10}
+do
+	echo " "
+	echo "frame_len:" $frame_len >> tune_results_low.dev
+	for prob_thresh in {0..100..2} # this is scaled by 1/1000 as bash cant handle float easily
+	do
+		echo "thresh:" $prob_thresh >> tune_results_low.dev
+		python perform_masking_low.py $dev_file $frame_len $prob_thresh
+		./get_arff_file complete_matrix.temp dev
+		perl score_det.pl ../../dist/arff/ComParE2013_Voc.9.devel.arff results.temp.complete.arff >> tune_results_low.dev 
+	done
+done
+
+# for the higher end probabilities to be scalted to 1
+echo "tune results" > tune_results_high.dev
+for frame_len in {10..150..10}
+do
+        echo " "
+        echo "frame_len:" $frame_len >> tune_results_high.dev
+        for prob_thresh in {900..1000..2} # this is scaled by 100 as bash cant handle float easily
+        do
+                echo "thresh:" $prob_thresh >> tune_results_high.dev
+                python perform_masking_high.py $dev_file $frame_len $prob_thresh
+		sed -i 's/^-[^,]*/0.0/g' complete_matrix.temp
+                ./get_arff_file complete_matrix.temp dev
+                perl score_det.pl ../../dist/arff/ComParE2013_Voc.9.devel.arff results.temp.complete.arff >> tune_results_high.dev
+        done
+done
+
+
