@@ -1,0 +1,7 @@
+#! /bin/bash
+
+# script to fix negative values assigned to a few probs
+
+dir=$1
+
+sed -i 's/^-[^,]*/0/g' $dir/*

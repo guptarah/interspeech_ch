@@ -1,0 +1,18 @@
+#! /bin/bash
+
+# usage extend_results dev 10 
+
+data_type=$1 # train test or dev
+num_repetitions=$2 # the window frame extended
+
+mkdir $data_type'_extended_'$num_repetitions
+
+for file in $data_type/*
+do
+	first_line=$(head -n1 $file)
+	yes $first_line | head -n $num_repetitions | cat >$data_type'_extended_'$num_repetitions/$(basename $file)
+	cat $file >> $data_type'_extended_'$num_repetitions/$(basename $file)
+	
+	last_line=$(tail -n1 $file)
+	yes $last_line | head -n $num_repetitions | cat >>$data_type'_extended_'$num_repetitions/$(basename $file)
+done

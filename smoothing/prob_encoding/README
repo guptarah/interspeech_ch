@@ -1,0 +1,9 @@
+Files got from ../linear_reg
+-->results.all_train.best_param
+-->results.dev.best_param
+-->results.test.best_param
+
+break_results : break above collectinve probability files per wav file stores in test/ dev/ train/ 
+fix_negatives : fix negative probabilities assigned to garbage. Sets them to 0
+extend_results : extend files in test/ dev/ or train/ and stores them in test_extended_$win_len 
+
