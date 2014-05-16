@@ -1,0 +1,15 @@
+#! /bin/bash
+
+input_file=$1 #file storing all the probabilities eg results.10 
+data_set=$2 # dev test or train
+
+win_len=$(echo $input_file | cut -d'.' -f2)
+echo $win_len
+# for dev
+if [ "$data_set" = "dev" ]; then
+cat <(head -n 8 ../../classification/dnn/results/dev_output_basic_dnn.arff) <(paste -d',' <(tail -n +9 ../../classification/dnn/results/dev_output_basic_dnn.arff | cut -d',' -f1-3)  $input_file) >results.$win_len.complete.arff
+
+else
+# for test
+cat <(head -n 8 ../../classification/dnn/results/test_output_basic_dnn.arff) <(paste -d',' <(tail -n +9 ../../classification/dnn/results/test_output_basic_dnn.arff | cut -d',' -f1-3)  $input_file) >results.$win_len.complete.arff
+fi

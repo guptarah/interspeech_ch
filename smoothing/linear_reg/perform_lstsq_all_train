@@ -1,0 +1,46 @@
+#! /bin/bash
+
+event='filler'
+win_len=50
+echo $event
+# for training 
+if [[ ! -f appended_prob_train/$event/training_matrix_$win_len ]]; then
+	echo "extracting train features"
+	cat appended_prob_train/$event/$win_len/* > prob_file
+	perl downsample.pl prob_file prob_file.ds # ds garbage by 20
+	cut -d',' -f3- prob_file.ds | sed "s/$event/1/g" | sed 's/filler/0/g;s/laughter/0/g;s/garbage/0/g' > appended_prob_train/$event/training_matrix_$win_len
+fi
+
+# getting entire train set for evaluation
+if [[ ! -f appended_prob_train/$event/all_training_matrix_$win_len ]]; then
+        echo "extracting train features"
+        cat appended_prob_train/$event/$win_len/* > prob_file
+        cut -d',' -f3- prob_file | sed "s/$event/1/g" | sed 's/filler/0/g;s/laughter/0/g;s/garbage/0/g' > appended_prob_train/$event/all_training_matrix_$win_len
+fi
+
+# to get results on the all train set
+python perform_lstsq_all_train.py appended_prob_train/$event/training_matrix_$win_len appended_prob_train/$event/all_training_matrix_$win_len 
+
+#####################
+#####################
+
+event='laughter'
+win_len=100
+echo $event
+if [[ ! -f appended_prob_train/$event/training_matrix_$win_len ]]; then
+        echo "extracting train features"
+        cat appended_prob_train/$event/$win_len/* > prob_file
+        perl downsample.pl prob_file prob_file.ds # ds garbage by 20
+        cut -d',' -f3- prob_file.ds | sed "s/$event/1/g" | sed 's/filler/0/g;s/laughter/0/g;s/garbage/0/g' > appended_prob_train/$event/training_matrix_$win_len
+fi
+
+# getting entire train set for evaluation 
+if [[ ! -f appended_prob_train/$event/all_training_matrix_$win_len ]]; then
+        echo "extracting all train features" 
+        cat appended_prob_train/$event/$win_len/* > prob_file
+        cut -d',' -f3- prob_file | sed "s/$event/1/g" | sed 's/filler/0/g;s/laughter/0/g;s/garbage/0/g' > appended_prob_train/$event/all_training_matrix_$win_len
+fi
+
+# to get results on the all train set
+python perform_lstsq_all_train.py appended_prob_train/$event/training_matrix_$win_len appended_prob_train/$event/all_training_matrix_$win_len
+        
