@@ -1,0 +1,17 @@
+#! /bin/bash
+
+# usage break_n_extend_results dev ../dnn/results/dev_output_basic_dnn
+
+data_set=$1 # train test or dev
+results_file=$2
+
+mkdir -p $data_set
+
+lables_file=../true_lables/$data_set'_lables'
+cut -d',' -f1 $lables_file | sort -u > files_list
+
+paste -d',' $lables_file $results_file > result_file 
+while read line
+do
+	grep $line result_file | cut -d',' -f3- > $data_set/${line:1:5}
+done < "files_list"
