@@ -1,0 +1,8 @@
+#! /bin/bash
+
+file_id=$1 # file id as S0001
+dataset=$2 # train test or devel
+output_file=$3 # where to store the features
+
+grep $file_id /home/rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.$dataset.arff | cut -d',' -f3-49 >$output_file
+

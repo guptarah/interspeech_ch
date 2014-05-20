@@ -1,0 +1,27 @@
+#! /bin/bash
+
+utt_id=$1 # file id as S0001_0.0_6.61
+dataset=$2 # train test or devel
+output_file=$3 # where to store the features
+
+file_id=$(echo $utt_id | cut -d'_' -f1)
+start_time=$(echo $utt_id | cut -d'_' -f2)
+start_time=$(echo $(echo $start_time*100 | bc) | cut -d'.' -f1)
+end_time=$(echo $utt_id | cut -d'_' -f3)
+end_time=$(echo $(echo $end_time*100 | bc) | cut -d'.' -f1)
+
+if [[ ! $start_time -eq 0 ]];then
+        start_time=$(echo $start_time-1 | bc)
+fi
+
+if [[ $end_time -eq 1100 ]];then
+	end_time=$(echo $end_time-2 | bc)
+fi
+
+time_duration=$(echo $end_time-$start_time | bc)
+
+echo $start_time
+echo $end_time
+
+grep $file_id /home/rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.$dataset.arff | tail -n +$start_time | head -n $time_duration |cut -d',' -f3-15,41-49 >$output_file
+
