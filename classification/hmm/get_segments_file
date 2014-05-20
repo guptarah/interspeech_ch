@@ -1,0 +1,70 @@
+#! /bin/bash
+
+# script to get the segments file from lables file
+
+## train set
+#train_file='/home/rcf-proj/mv/guptarah/interspeech_ch/dist/lab/train.lst'
+#output_file='train_segments'
+#rm -f $output_file
+#
+#while read line
+#do
+#	echo $line
+#	grep $line ../true_lables/train_lables | cut -d',' -f2 | sed 's/garbage/1/g;s/laughter/2/g;s/filler/3/g'> temp.lables
+#	python get_segments.py temp.lables $line $output_file
+#	 
+#done <$train_file
+#
+#paste <(paste -d'_' <(cut -d' ' -f1 train_segments | cut -d'.' -f1 train_segments) <(cut -d' ' -f2 train_segments) <(cut -d' ' -f3 train_segments)) <(cut -d' ' -f1 train_segments | cut -d'.' -f1 train_segments) <(cut -d' ' -f2 train_segments) <(cut -d' ' -f3 train_segments) > segments
+#
+#paste <(paste -d'_' <(cut -d' ' -f1 train_segments | cut -d'.' -f1 train_segments) <(cut -d' ' -f2 train_segments) <(cut -d' ' -f3 train_segments))  <(cut -d' ' -f4 train_segments) >text
+#
+#num_segs=$(wc -l segments | cut -d' ' -f1)
+#echo $num_segs
+#paste <(cut -f1 segments) <(yes 'spk'| head -n $num_segs) >utt2spk
+
+#########
+# dev set
+#########
+dev_file='/home/rcf-proj/mv/guptarah/interspeech_ch/dist/lab/devel.lst'
+output_file='dev_segments'
+rm -f $output_file
+
+while read line
+do
+        echo $line
+        grep $line ../true_lables/dev_lables | cut -d',' -f2 | sed 's/garbage/1/g;s/laughter/2/g;s/filler/3/g'> temp.lables
+        python get_segments.py temp.lables $line $output_file
+
+done <$dev_file
+
+paste <(paste -d'_' <(cut -d' ' -f1 dev_segments | cut -d'.' -f1 dev_segments) <(cut -d' ' -f2 dev_segments) <(cut -d' ' -f3 dev_segments)) <(cut -d' ' -f1 dev_segments | cut -d'.' -f1 dev_segments) <(cut -d' ' -f2 dev_segments) <(cut -d' ' -f3 dev_segments) > segments
+
+paste <(paste -d'_' <(cut -d' ' -f1 dev_segments | cut -d'.' -f1 dev_segments) <(cut -d' ' -f2 dev_segments) <(cut -d' ' -f3 dev_segments))  <(cut -d' ' -f4 dev_segments) >dev_text
+
+num_segs=$(wc -l segments | cut -d' ' -f1)
+echo $num_segs
+paste <(cut -f1 segments) <(yes 'spk'| head -n $num_segs) >utt2spk
+
+#########
+# test set
+#########
+test_file='/home/rcf-proj/mv/guptarah/interspeech_ch/dist/lab/test.lst'
+output_file='test_segments'
+rm -f $output_file
+
+while read line
+do
+        echo $line
+        grep $line ../true_lables/test_lables | cut -d',' -f2 | sed 's/garbage/1/g;s/laughter/2/g;s/filler/3/g'> temp.lables
+        python get_segments.py temp.lables $line $output_file
+
+done <$test_file
+
+paste <(paste -d'_' <(cut -d' ' -f1 test_segments | cut -d'.' -f1 test_segments) <(cut -d' ' -f2 test_segments) <(cut -d' ' -f3 test_segments)) <(cut -d' ' -f1 test_segments | cut -d'.' -f1 test_segments) <(cut -d' ' -f2 test_segments) <(cut -d' ' -f3 test_segments) > segments
+
+paste <(paste -d'_' <(cut -d' ' -f1 test_segments | cut -d'.' -f1 test_segments) <(cut -d' ' -f2 test_segments) <(cut -d' ' -f3 test_segments))  <(cut -d' ' -f4 test_segments) >test_text
+
+num_segs=$(wc -l segments | cut -d' ' -f1)
+echo $num_segs
+paste <(cut -f1 segments) <(yes 'spk'| head -n $num_segs) >utt2spk

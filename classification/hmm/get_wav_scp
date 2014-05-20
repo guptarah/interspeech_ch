@@ -1,0 +1,18 @@
+#! /bin/bash
+
+# script to get the wav.scp file and the segments file
+
+# train set
+train_file='/home/rcf-proj/mv/guptarah/interspeech_ch/dist/lab/train.lst'
+num_files=$(wc -l $train_file | cut -d' ' -f1) 
+paste -d' ' <(cut -d'.' -f1 $train_file) <(paste -d'/' <(yes '/home/rcf-proj/mv/guptarah/interspeech_ch/dist/wav/' | head -n$num_files) $train_file) > wav.scp
+
+# dev set
+dev_file='/home/rcf-proj/mv/guptarah/interspeech_ch/dist/lab/devel.lst'
+num_files=$(wc -l $dev_file | cut -d' ' -f1) 
+paste -d' ' <(cut -d'.' -f1 $dev_file) <(paste -d'/' <(yes '/home/rcf-proj/mv/guptarah/interspeech_ch/dist/wav/' | head -n$num_files) $dev_file) > wav_dev.scp
+
+# test set
+test_file='/home/rcf-proj/mv/guptarah/interspeech_ch/dist/lab/test.lst'
+num_files=$(wc -l $test_file | cut -d' ' -f1) 
+paste -d' ' <(cut -d'.' -f1 $test_file) <(paste -d'/' <(yes '/home/rcf-proj/mv/guptarah/interspeech_ch/dist/wav/' | head -n$num_files) $test_file) > wav_test.scp
