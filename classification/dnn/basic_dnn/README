@@ -1,0 +1,4 @@
+get_results_wo_context: gets a framewise features from arff files with no context
+prepare_files.m: will do all training
+train_dnn.m: a function in prepare_files.m
+get_arff_file: to get file in arff format to calculate AUC.
