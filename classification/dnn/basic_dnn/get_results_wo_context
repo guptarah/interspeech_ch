@@ -1,0 +1,32 @@
+#! /bin/bash
+# prepare the train, dev and test files. Only to contain 47 features and no other information
+
+# getting the features
+if [[ ! -f all_train_data ]]; then 
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.train.arff | tail -n +150 | cut -d',' -f3-49 > all_train_data
+fi
+if  [[ ! -f train_data ]]; then
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.train.downsampled.arff | tail -n +150 | cut -d',' -f3-49 > train_data
+fi
+if  [[ ! -f dev_data ]]; then
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.devel.arff | tail -n +150 | cut -d',' -f3-49 > dev_data
+fi
+if  [[ ! -f test_data ]]; then
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.test_w_lables.arff | tail -n +150 | cut -d',' -f3-49 > test_data
+fi
+
+# getting the lables
+if [[ ! -f train_lables ]]; then
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.train.downsampled.arff | tail -n +150 | cut -d',' -f144 | sed 's/garbage/1,0,0/g;s/laughter/0,1,0/g;s/filler/0,0,1/g' > train_lables
+fi
+
+if [[ ! -f dev_lables ]]; then
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.devel.arff | tail -n +150 | cut -d',' -f144 | sed 's/garbage/1,0,0/g;s/laughter/0,1,0/g;s/filler/0,0,1/g' > dev_lables
+fi
+
+if [[ ! -f test_lables ]]; then
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.test_w_lables.arff | tail -n +150 | cut -d',' -f144 | sed 's/garbage/1,0,0/g;s/laughter/0,1,0/g;s/filler/0,0,1/g' > test_lables
+fi
+
+# train_dnn
+
