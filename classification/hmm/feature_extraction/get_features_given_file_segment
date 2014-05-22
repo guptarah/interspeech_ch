@@ -23,5 +23,5 @@ time_duration=$(echo $end_time-$start_time | bc)
 echo $start_time
 echo $end_time
 
-grep $file_id /home/rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.$dataset.arff | tail -n +$start_time | head -n $time_duration |cut -d',' -f3-15,41-49 >$output_file
+grep $file_id /home/rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.$dataset.arff | tail -n +$start_time | head -n $time_duration |cut -d',' -f3-15,42-44,48 >$output_file
 

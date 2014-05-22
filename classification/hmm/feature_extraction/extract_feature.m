@@ -69,6 +69,7 @@ for f=1:n_files
 	command = ['./get_features_given_file ',uttid,' ',data_set,' temp'];
 	system(command);
 	feat = load('temp');
+	feat = feat';
 
 	n_elements=numel(feat);
     
