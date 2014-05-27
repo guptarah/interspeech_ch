@@ -3,16 +3,16 @@
 
 # getting the features
 if [[ ! -f all_train_data ]]; then 
-cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.train.arff | tail -n +150 | cut -d',' -f3-49 > all_train_data
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.train.arff | tail -n +150 | cut -d',' -f3-15,42-44,48 > all_train_data
 fi
 if  [[ ! -f train_data ]]; then
-cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.train.downsampled.arff | tail -n +150 | cut -d',' -f3-49 > train_data
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.train.downsampled.arff | tail -n +150 | cut -d',' -f3-15,42-44,48 > train_data
 fi
 if  [[ ! -f dev_data ]]; then
-cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.devel.arff | tail -n +150 | cut -d',' -f3-49 > dev_data
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.devel.arff | tail -n +150 | cut -d',' -f3-15,42-44,48 > dev_data
 fi
 if  [[ ! -f test_data ]]; then
-cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.test_w_lables.arff | tail -n +150 | cut -d',' -f3-49 > test_data
+cat /home//rcf-proj/mv/guptarah/interspeech_ch/dist/arff/ComParE2013_Voc.9.test_w_lables.arff | tail -n +150 | cut -d',' -f3-15,42-44,48 > test_data
 fi
 
 # getting the lables

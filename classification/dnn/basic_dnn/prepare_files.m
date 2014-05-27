@@ -9,7 +9,7 @@ elseif (exist('normalized_values.mat', 'file') ~= 2)
 	disp ('extracting means and sigma')
 	all_train_data = load('all_train_data');
 	[~,mu,sigma] = zscore(all_train_data);
-	save('mu_sigma_all_data.mat',mu,sigma);
+	save('mu_sigma_all_data.mat','mu','sigma');
 end
 
 %%
@@ -37,7 +37,7 @@ end
 % first get results on dev
 addpath(genpath('/home/rcf-proj/mv/guptarah/DeepLearnToolbox/'));
 nbClasses = 3;
-dbn_size = [32 16];
+dbn_size = [12 6];
 [dnn,dev_output] = train_dnn(nbClasses,norm_train_data,train_lables,norm_dev_data,dev_lables,dbn_size);
 
 % get results on test
