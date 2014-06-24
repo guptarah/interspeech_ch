@@ -39,11 +39,10 @@ B2=bar(0.01:.01:1,h1,'b');
 ch = get(B2,'child');
 set(ch,'facea',.3)
 xlim([0 1.02]);
-legend('E','En');
+legend('Frames without laughter','Frames with laughter');
 ylabel('Empirical probability');
 xlabel('Confidence values');
-
-
+ylim([0 .12])
 % for fillers
 f_target = target(:,3);
 vals0 = prob_vals(find(f_target==0),3);
@@ -67,6 +66,7 @@ xlim([0 1.02])
 title('(1b)');
 ylabel('Empirical probability');
 xlabel('Confidence values');
+legend('Frames without filler','Frames with filler');
 
 %%
 % after decision context
@@ -91,7 +91,7 @@ h0 = h0/sum(h0);
 B1=bar(0.01:.01:1,h0,'r');
 ch = get(B1,'child');
 set(ch,'facea',.3)
-title('(1a)');
+title('(2a)');
 ylabel('Empirical probability');
 xlabel('Confidence values');
 hold on;
@@ -102,10 +102,9 @@ B2=bar(0.01:.01:1,h1,'b');
 ch = get(B2,'child');
 set(ch,'facea',.3)
 xlim([0 1.02]);
-legend('E','En');
 ylabel('Empirical probability');
 xlabel('Confidence values');
-
+ylim([0 0.12]);
 
 % for fillers
 f_target = target(:,3);
@@ -127,9 +126,10 @@ h1 = hist(vals1,nbins);
 h1 = h1/sum(h1);
 %plot(0.01:0.01:1,h1,'-.b');
 xlim([0 1.02])
-title('(1b)');
+title('(2b)');
 ylabel('Empirical probability');
 xlabel('Confidence values');
+ylim([0 0.12]);
 
 %%
 % after masking
@@ -152,7 +152,7 @@ h0 = h0/sum(h0);
 B1=bar(0.01:.01:1,h0,'r');
 ch = get(B1,'child');
 set(ch,'facea',.3)
-title('(1a)');
+title('(3a)');
 ylabel('Empirical probability');
 xlabel('Confidence values');
 hold on;
@@ -163,10 +163,9 @@ B2=bar(0.01:.01:1,h1,'b');
 ch = get(B2,'child');
 set(ch,'facea',.3)
 xlim([0 1.02]);
-legend('E','En');
 ylabel('Empirical probability');
 xlabel('Confidence values');
-
+ylim([0 0.12])
 
 % for fillers
 f_target = target(:,3);
@@ -188,6 +187,7 @@ h1 = hist(vals1,nbins);
 h1 = h1/sum(h1);
 %plot(0.01:0.01:1,h1,'-.b');
 xlim([0 1.02])
-title('(1b)');
+title('(3b)');
 ylabel('Empirical probability');
 xlabel('Confidence values');
+ylim([0 0.12])

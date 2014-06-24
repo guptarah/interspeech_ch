@@ -8,7 +8,7 @@ subplot(2,1,1);
 plot(-100:100,laughter_coefs(1:201),'-r');
 hold on;
 plot(-100:100,(1/201)*ones(1,201),'--b');
-xlabel('Subscripts m_{u} for linear filter coeffiecients');
+xlabel('Index m_{u} for linear filter coeffiecients');
 ylabel('Coefficient value');
 legend('MMSE','MA');
 title('(a)')
@@ -17,7 +17,7 @@ subplot(2,1,2);
 plot(-50:50,filler_coefs(1:101),'-r');
 hold on
 plot(-50:50,(1/101)*ones(1,101),'--b');
-xlabel('Subscripts m_{u} for linear filter coeffiecients');
+xlabel('Index m_{u} for linear filter coeffiecients');
 ylabel('Coefficient value');
 title('(b)')
 

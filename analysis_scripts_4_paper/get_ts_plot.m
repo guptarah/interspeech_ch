@@ -10,6 +10,7 @@ if nargin == 2
     f_start = 2300;
 end
 
+
 prob_vals = load(prob_file);
 target = load(target_file);
 
@@ -21,7 +22,7 @@ vals = prob_vals(l_start:l_start+1100,2);
 labs = target(l_start:l_start+1100,2);
 hold on;
 plot(1:1101,vals,'r-','LineWidth',.7);
-plot(1:1101,labs,'-b','LineWidth',2);
+plot(1:1101,labs,'-b','LineWidth',1);
 legend('Obtained probability','Target probability');
 plot(1:1101,vals,'r-','LineWidth',.7);
 
@@ -36,7 +37,7 @@ vals = prob_vals(f_start:f_start+1100,3);
 labs = target(f_start:f_start+1100,3);
 hold on;
 plot(1:1101,vals,'r-','LineWidth',.7);
-plot(1:1101,labs,'-b','LineWidth',2);
+plot(1:1101,labs,'-b','LineWidth',1);
 %legend('Obtained probability','Target probability');
 plot(1:1101,vals,'r-','LineWidth',.7);
 xlabel('Frame number');
